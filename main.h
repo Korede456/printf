@@ -26,6 +26,6 @@ int print_octal(va_list);
 int print_hex(va_list);
 int print_HEX(va_list);
 int print_address(va_list;
-int select_f(const char *format, t_printf func_arr[], va_list arg_list);
+int select_func(const char *format, t_printf func_arr[], va_list arg_list);
 
 #endif
