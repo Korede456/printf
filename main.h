@@ -2,7 +2,7 @@
 #define MAIN_H
 
 #include <stdio.h>
-#include <unistd.h>
+#include <stdarg.h>
 #include <stdlib.h>
 
 typedef struct t_printf
